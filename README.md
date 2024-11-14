@@ -3,7 +3,7 @@
 # Important Notes:
 This tool does not log any user data or actions.
 It performs local checks only, and makes use of the VirusTotal API for additional security checks.
-You must provide a valid VirusTotal API key to enable the VirusTotal scanning functionality this is optimal.
+You must provide a valid VirusTotal API key to enable the VirusTotal scanning functionality this is optional.
 
 # Sample Output:
 Once you run the tool, you may see output like this: 
