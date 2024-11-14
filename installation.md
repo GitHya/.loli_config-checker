@@ -21,7 +21,7 @@ To install and set up **Loli_Checker 1.0**, follow these simple steps:
   3. **Install Required Dependencies**
 Make sure you have Python 3.x installed. Then, install the necessary packages by running
 ```
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 4. **Set Up the VirusTotal API Key**
 You'll need a VirusTotal API key for scanning files. Obtain your API key from VirusTotal and set it as an environment variable
